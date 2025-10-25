@@ -242,8 +242,14 @@
       <Icon x="3" y="10" type="Line" bits="17" />
       <Icon x="4" y="10" type="Line" bits="17" />
       <Icon x="5" y="10" type="Line" bits="17" />
+      <Icon x="9" y="10" type="Line" bits="17" />
+      <Icon x="10" y="10" type="Line" bits="17" />
+      <Icon x="11" y="10" type="Line" bits="17" />
       <Icon x="37" y="10" type="Turnout" bits="196" Address="714" MasterAddress="713" Inverted="yes" />
       <Icon x="38" y="10" type="Line" bits="68" />
+      <Icon x="9" y="11" type="Line" bits="33" />
+      <Icon x="10" y="11" type="Line" bits="17" />
+      <Icon x="11" y="11" type="Line" bits="17" />
     </Icons>
   </Controlpanel>
   <Views />
