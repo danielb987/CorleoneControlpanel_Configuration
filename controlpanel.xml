@@ -204,7 +204,13 @@
       <Icon x="3" y="8" type="Line" bits="17" />
       <Icon x="4" y="8" type="Line" bits="17" />
       <Icon x="5" y="8" type="Line" bits="17" />
-      <Icon x="6" y="8" type="WyeSlip" bits="0" />
+      <Icon x="6" y="8" type="WyeSlip" bits="0" connectingBits="42d40d">
+        <Track head="21" tail="10" trackNo="1" />
+        <Track head="22" tail="12" trackNo="2" />
+        <Track head="0" tail="14" trackNo="3" />
+        <Track head="2" tail="15" trackNo="4" />
+        <Track head="3" tail="17" trackNo="5" />
+      </Icon>
       <Icon x="9" y="8" type="Line" bits="17" />
       <Icon x="10" y="8" type="Line" bits="17" />
       <Icon x="11" y="8" type="Line" bits="17" />
